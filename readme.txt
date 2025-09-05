@@ -9,4 +9,4 @@ make 하면 빌드, make clean 하면 rm
 기획서 보기: https://drive.google.com/file/d/1dqWH1nT6gCskC378LI10NT19P5aNfknm/view?usp=drive_link
 설계서 보기: https://drive.google.com/file/d/1DO3AOhblyu05tfDpESToMS_PghS2Tj35/view?usp=sharing
 발표자료 보기: https://drive.google.com/file/d/12wbvFqZC6AwvltZ29Eun0OrYXjsywqXK/view?usp=drive_link (1차)
-              https://drive.google.com/file/d/1Ff8ElAw_Dwe12Z1K9gAenWQr2a8Xric4/view?usp=drive_link(2차)
+              https://drive.google.com/file/d/1Ff8ElAw_Dwe12Z1K9gAenWQr2a8Xric4/view?usp=drive_link (2차)
